@@ -227,3 +227,4 @@ tree_2 = get_result(DecisionTreeClassifier(), train_x, test_x, train_y, test_y, 
 prediction_plot(xgb, svc, tree_2, test_x, test_y)
 matrix_plot(xgb, svc, tree_2, test_x, test_y)
 # tree_plot(tree_2)
+
